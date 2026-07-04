@@ -12,7 +12,7 @@
 
 ## CLI Commands
 
-The following commands are available during a session[cite: 3, 6]:
+The following commands are available during a session:
 
 | Command | Description |
 | :--- | :--- |
